@@ -21,3 +21,9 @@
  5) Update Lua parameters from the same advanced menu as ores are found at new depths
 
  ![Ore-Ranger-Parameters](https://github.com/WarrenOne/Ore-Ranger/blob/main/Images/Ore%20Ranger%20Parameters.png)
+
+ ## New in 1.2! Change Background Image
+
+Users may now change the background according to the instructions under the first system:start() filter
+
+![Ore-Ranger-User-Image](https://github.com/WarrenOne/Ore-Ranger/blob/main/Images/Ore%20Ranger%20User%20Image.png)
